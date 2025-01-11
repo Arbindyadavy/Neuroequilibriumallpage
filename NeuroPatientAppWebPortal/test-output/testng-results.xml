@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-10T17:57:26 IST" name="Default suite" finished-at="2025-01-10T17:59:58 IST" duration-ms="151262">
+    <groups>
+    </groups>
+    <test started-at="2025-01-10T17:57:26 IST" name="Default test" finished-at="2025-01-10T17:59:58 IST" duration-ms="151262">
+      <class name="neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage">
+        <test-method is-config="true" signature="tcOpenApplicationOfNeuru()[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:57:26 IST" name="tcOpenApplicationOfNeuru" finished-at="2025-01-10T17:57:26 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcOpenApplicationOfNeuru -->
+        <test-method is-config="true" signature="LanchingMethod()[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:57:26 IST" name="LanchingMethod" finished-at="2025-01-10T17:57:32 IST" duration-ms="5733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LanchingMethod -->
+        <test-method is-config="true" signature="tcLoginPage(java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:57:32 IST" name="tcLoginPage" finished-at="2025-01-10T17:57:32 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.VerfyTest_Login_Page()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLoginPage -->
+        <test-method signature="VerfyTest_Login_Page()[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:57:32 IST" name="VerfyTest_Login_Page" finished-at="2025-01-10T17:57:37 IST" duration-ms="4712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfyTest_Login_Page -->
+        <test-method is-config="true" signature="tcLogOut(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:57:37 IST" name="tcLogOut" finished-at="2025-01-10T17:57:37 IST" duration-ms="183" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerfyTest_Login_Page status=SUCCESS method=VerfyTinnitus_Patient_LoginPage.VerfyTest_Login_Page()[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.VerfyTest_Login_Page()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLogOut -->
+        <test-method signature="VerfyTest_Tinnitus_Add_Patient()[pri:1, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:57:37 IST" name="VerfyTest_Tinnitus_Add_Patient" finished-at="2025-01-10T17:57:51 IST" duration-ms="14099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfyTest_Tinnitus_Add_Patient -->
+        <test-method is-config="true" signature="tcLoginPage(java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:57:37 IST" name="tcLoginPage" finished-at="2025-01-10T17:57:37 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_Add_Patient()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLoginPage -->
+        <test-method is-config="true" signature="tcLogOut(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:57:51 IST" name="tcLogOut" finished-at="2025-01-10T17:57:51 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerfyTest_Tinnitus_Add_Patient status=SUCCESS method=VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_Add_Patient()[pri:1, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_Add_Patient()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLogOut -->
+        <test-method is-config="true" signature="tcLoginPage(java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:57:51 IST" name="tcLoginPage" finished-at="2025-01-10T17:57:51 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_History()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLoginPage -->
+        <test-method signature="VerfyTest_Tinnitus_History()[pri:2, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:57:51 IST" name="VerfyTest_Tinnitus_History" finished-at="2025-01-10T17:58:30 IST" duration-ms="38408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfyTest_Tinnitus_History -->
+        <test-method is-config="true" signature="tcLogOut(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:58:30 IST" name="tcLogOut" finished-at="2025-01-10T17:58:30 IST" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerfyTest_Tinnitus_History status=SUCCESS method=VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_History()[pri:2, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_History()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLogOut -->
+        <test-method signature="VerfyTest_Tinnitus_Investigation()[pri:3, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:58:30 IST" name="VerfyTest_Tinnitus_Investigation" finished-at="2025-01-10T17:58:32 IST" duration-ms="2857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfyTest_Tinnitus_Investigation -->
+        <test-method is-config="true" signature="tcLoginPage(java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:58:30 IST" name="tcLoginPage" finished-at="2025-01-10T17:58:30 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_Investigation() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLoginPage -->
+        <test-method is-config="true" signature="tcLogOut(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:58:32 IST" name="tcLogOut" finished-at="2025-01-10T17:58:32 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerfyTest_Tinnitus_Investigation status=SUCCESS method=VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_Investigation()[pri:3, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_Investigation() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLogOut -->
+        <test-method is-config="true" signature="tcLoginPage(java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:58:32 IST" name="tcLoginPage" finished-at="2025-01-10T17:58:32 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.THI() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLoginPage -->
+        <test-method signature="THI()[pri:4, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:58:32 IST" name="THI" finished-at="2025-01-10T17:58:56 IST" duration-ms="24035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- THI -->
+        <test-method is-config="true" signature="tcLogOut(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:58:56 IST" name="tcLogOut" finished-at="2025-01-10T17:58:56 IST" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=THI status=SUCCESS method=VerfyTinnitus_Patient_LoginPage.THI()[pri:4, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.THI() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLogOut -->
+        <test-method signature="VerfyTest_Tinnitus_HADS()[pri:5, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:58:56 IST" name="VerfyTest_Tinnitus_HADS" finished-at="2025-01-10T17:59:06 IST" duration-ms="9100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfyTest_Tinnitus_HADS -->
+        <test-method is-config="true" signature="tcLoginPage(java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:58:56 IST" name="tcLoginPage" finished-at="2025-01-10T17:58:56 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_HADS()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLoginPage -->
+        <test-method is-config="true" signature="tcLogOut(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:59:06 IST" name="tcLogOut" finished-at="2025-01-10T17:59:06 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerfyTest_Tinnitus_HADS status=SUCCESS method=VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_HADS()[pri:5, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_HADS()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLogOut -->
+        <test-method is-config="true" signature="tcLoginPage(java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:59:06 IST" name="tcLoginPage" finished-at="2025-01-10T17:59:06 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_Investgation() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLoginPage -->
+        <test-method signature="VerfyTest_Tinnitus_Investgation()[pri:6, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:59:06 IST" name="VerfyTest_Tinnitus_Investgation" finished-at="2025-01-10T17:59:58 IST" duration-ms="51992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfyTest_Tinnitus_Investgation -->
+        <test-method is-config="true" signature="tcLogOut(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:59:58 IST" name="tcLogOut" finished-at="2025-01-10T17:59:58 IST" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerfyTest_Tinnitus_Investgation status=SUCCESS method=VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_Investgation()[pri:6, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage.VerfyTest_Tinnitus_Investgation() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcLogOut -->
+        <test-method is-config="true" signature="TCCclose()[pri:0, instance:neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage@22ff4249]" started-at="2025-01-10T17:59:58 IST" name="TCCclose" finished-at="2025-01-10T17:59:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TCCclose -->
+      </class> <!-- neuroeqilibrium_Tinnitus_Test_Script.VerfyTinnitus_Patient_LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
